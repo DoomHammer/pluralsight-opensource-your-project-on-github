@@ -54,3 +54,5 @@ Please report course issues using the [Issues](https://github.com/DoomHammer/plu
 - https://github.com/ligurio/awesome-ci
 
 ## List of Awesome Projects
+
+- [Psychic Guacamole](https://github.com/DoomHammer/psychic-guacamole)
