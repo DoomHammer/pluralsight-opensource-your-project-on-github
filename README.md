@@ -2,7 +2,7 @@
 
 This repository is for the Pluralsight course Contributing to an Open Source Project on GitHub. The license is Apache 2.0.
 
-https://doomhammer.info/l/courses/opensource-your-project-on-github
+[![Course overview screenshot](https://user-images.githubusercontent.com/695373/80378225-a56ed000-889c-11ea-85a9-37780df5ebfd.png)](https://doomhammer.info/l/courses/managing-advanced-kubernetes-logging-and-tracing)
 
 
 ## Table of Contents
