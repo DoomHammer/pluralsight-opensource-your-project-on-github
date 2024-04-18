@@ -57,3 +57,4 @@ Please report course issues using the [Issues](https://github.com/DoomHammer/plu
  - https://github.com/HarrisMBrad/Survey-Form/tree/master
  - https://github.com/meme2k21/carved-rock-fitness
  - [Node Product Catalog Service](https://github.com/prasadhonrao/node-product-catalog-service)
+ - https://github.com/ivangp61/psychic-guacamole
